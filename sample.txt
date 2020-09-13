@@ -1,2 +1,5 @@
 adding new file
 feature1 added
+adding feature 2
+
+adding one more feature 2 
